@@ -2,6 +2,7 @@
 build
 data
 third_party
+tmp
 
 # Prerequisites
 *.d
